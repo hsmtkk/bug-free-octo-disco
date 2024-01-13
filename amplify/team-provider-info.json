@@ -10,6 +10,11 @@
       "StackName": "amplify-bugfreeoctodisco-dev-152135",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:384447982274:stack/amplify-bugfreeoctodisco-dev-152135/013201c0-b1dc-11ee-a6de-0a5aff615299",
       "AmplifyAppId": "d27wilveog0fqw"
+    },
+    "categories": {
+      "auth": {
+        "bugfreeoctodisco28c870da": {}
+      }
     }
   }
 }
