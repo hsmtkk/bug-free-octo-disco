@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bugfreeoctodisco-dev-152135-authRole",
+      "UnauthRoleArn": "arn:aws:iam::384447982274:role/amplify-bugfreeoctodisco-dev-152135-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::384447982274:role/amplify-bugfreeoctodisco-dev-152135-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-bugfreeoctodisco-dev-152135-deployment",
+      "UnauthRoleName": "amplify-bugfreeoctodisco-dev-152135-unauthRole",
+      "StackName": "amplify-bugfreeoctodisco-dev-152135",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:384447982274:stack/amplify-bugfreeoctodisco-dev-152135/013201c0-b1dc-11ee-a6de-0a5aff615299",
+      "AmplifyAppId": "d27wilveog0fqw"
+    }
+  }
+}
